@@ -2,6 +2,8 @@
 
 from tkinter import *
 
+# COOOOOOOOOOMNENEEENENTNTNTN#########
+
 class Application(Frame):
     """ Main class for calculator"""
 
