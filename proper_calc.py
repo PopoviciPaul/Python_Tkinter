@@ -4,6 +4,8 @@ from numbers import Number
 import operator
 import re
 
+# This is some text added from the master! #
+
 class Application(Frame):
     def __init__(self, master):
         super(Application, self).__init__(master)
